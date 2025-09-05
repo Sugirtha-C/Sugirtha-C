@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sugirtha-C
-- 👀  I’m passionate about expanding my knowledge and skills in big data technologies.
+- 👀  I am a test automation analyst and passionate about expanding my knowledge and skills in testing & big data technologies.
 - 🌱 Currently, I'm honing my expertise in SQL, PySpark, Databricks.
 - 💞️  I’m enthusiastic about connecting with others in the tech community.
 - 📫 Feel free to reach out to me via my LinkedIn profile: www.linkedin.com/in/sugirtha-chandrasekaran

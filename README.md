@@ -1,5 +1,5 @@
-👋 Hi, I’m **Sugirtha Chandrasekaran**  
-💻 Test Automation Analyst | Aspiring Data Engineer  
+Hi, I’m **Sugirtha Chandrasekaran**  
+Test Automation Analyst | Aspiring Data Engineer  
 
 - I bring 13+ years of experience in **software quality assurance**, with a focus on **test automation and end-to-end delivery**.  
 - Currently expanding my skills in **Azure Data Engineering**, exploring **SQL, PySpark, Databricks, ADF, and Cloud Data Pipelines**.  
